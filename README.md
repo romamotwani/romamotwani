@@ -4,8 +4,9 @@
 - I’m currently learning: **Generative AI, Full Stack, Data Analysis & Data Structures and Algorithms**
 
 - Worked on:
+  - [Drug Trafficking using Predictive Analysis](http://localhost:8501)
   - [GenAI-based Travel Planner](https://hack-sync-better-call-devs.vercel.app) 
-  - [Leetcode clone (Competitive Coding Arena)](https://leetcode-94c79.web.app)  
+  - [Leetcode clone (Competitive Coding Arena)](https://leetcode-94c79.web.app) 
 
 
 - Reach me: **romamotwani22@gmail.com**
