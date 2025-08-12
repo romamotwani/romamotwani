@@ -4,7 +4,7 @@
 - I’m currently learning: **Generative AI, Full Stack, Data Analysis & Data Structures and Algorithms**
 
 - Worked on:
-  - [GenAI-based Travel Planner](hack-sync-better-call-devs.vercel.app) 
+  - [GenAI-based Travel Planner](https://hack-sync-better-call-devs.vercel.app) 
   - [Leetcode clone (Competitive Coding Arena)](https://leetcode-94c79.web.app)  
 
 
