@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Roma Motwani</h1>
 <h3 align="center">AI Researcher | Software Developer | Tech Enthusiast</h3>
 
-- I’m currently learning: **Generative AI, Full Stack Development, Data Structures and Algorithms**
+- I’m currently learning: **Generative AI, Full Stack, Data Analysis & Data Structures and Algorithms**
 
 - Worked on:
   - [GenAI-based Travel Planner](hack-sync-better-call-devs.vercel.app) 
